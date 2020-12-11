@@ -1,0 +1,13 @@
+C:\Users\khrah\source\repos\AlgorithmsAndDatastructure\AlgorithmsAndDatastructure\bin\Debug\netcoreapp3.1\AlgorithmsAndDatastructure.exe
+C:\Users\khrah\source\repos\AlgorithmsAndDatastructure\AlgorithmsAndDatastructure\bin\Debug\netcoreapp3.1\AlgorithmsAndDatastructure.deps.json
+C:\Users\khrah\source\repos\AlgorithmsAndDatastructure\AlgorithmsAndDatastructure\bin\Debug\netcoreapp3.1\AlgorithmsAndDatastructure.runtimeconfig.json
+C:\Users\khrah\source\repos\AlgorithmsAndDatastructure\AlgorithmsAndDatastructure\bin\Debug\netcoreapp3.1\AlgorithmsAndDatastructure.runtimeconfig.dev.json
+C:\Users\khrah\source\repos\AlgorithmsAndDatastructure\AlgorithmsAndDatastructure\bin\Debug\netcoreapp3.1\AlgorithmsAndDatastructure.dll
+C:\Users\khrah\source\repos\AlgorithmsAndDatastructure\AlgorithmsAndDatastructure\bin\Debug\netcoreapp3.1\AlgorithmsAndDatastructure.pdb
+C:\Users\khrah\source\repos\AlgorithmsAndDatastructure\AlgorithmsAndDatastructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDatastructure.csprojAssemblyReference.cache
+C:\Users\khrah\source\repos\AlgorithmsAndDatastructure\AlgorithmsAndDatastructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDatastructure.csproj.CoreCompileInputs.cache
+C:\Users\khrah\source\repos\AlgorithmsAndDatastructure\AlgorithmsAndDatastructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDatastructure.AssemblyInfoInputs.cache
+C:\Users\khrah\source\repos\AlgorithmsAndDatastructure\AlgorithmsAndDatastructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDatastructure.AssemblyInfo.cs
+C:\Users\khrah\source\repos\AlgorithmsAndDatastructure\AlgorithmsAndDatastructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDatastructure.dll
+C:\Users\khrah\source\repos\AlgorithmsAndDatastructure\AlgorithmsAndDatastructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDatastructure.pdb
+C:\Users\khrah\source\repos\AlgorithmsAndDatastructure\AlgorithmsAndDatastructure\obj\Debug\netcoreapp3.1\AlgorithmsAndDatastructure.genruntimeconfig.cache
